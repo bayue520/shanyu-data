@@ -1,0 +1,30 @@
+{
+    "games": [
+        {
+            "name": "数字大玩家",
+            "url": "https://cdn.hiluluke.com/noad/shuzi/index.html?autoauto=true",
+            "intro": "自动开启：全自动版本 无需设置",
+            "enabled": true
+        },
+        {
+            "name": "天门无限开",
+            "url": "https://cdn.hiluluke.com/noad/tianmen2/index2.html?autoauto=true",
+            "intro": "自动开启：设置-省力开-只能自动峡谷挑战",
+            "enabled": true
+        },
+        {
+            "name": "方块大玩家",
+            "url": "自动开启：全自动版本 无需设置",
+            "intro": "https://aloss.11oi.com/games/fkdwj/index.html?auto=true",
+            "category": "广告游戏",
+            "enabled": true
+        },
+        {
+            "name": "nihao",
+            "url": "https://res.game.7to.cn/gameres/pgame2/drama/game/",
+            "intro": "2222",
+            "category": "广告游戏",
+            "enabled": true
+        }
+    ]
+}
