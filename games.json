@@ -1,8 +1,8 @@
 {
     "games": [
         {
-            "name": "数字大玩家",
-            "url": "https://cdn.hiluluke.com/noad/shuzi/index.html?autoauto=true",
+            "name": "一关又一关",
+            "url": "https://cdn.hiluluke.com/noad/yiguan/3dhand/index.html?auto=true&type=0",
             "intro": "自动开启：全自动版本 无需设置",
             "enabled": true
         },
