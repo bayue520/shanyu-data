@@ -33,6 +33,13 @@
   "intro": "双击运行，自动检测模拟器",
   "category": "自制脚本",
   "type": "app"
-}
+},
+        {
+            "name": "智商告急",
+            "url": "https://aloss.11oi.com/games/cyhc/202507292/index.html?auto=true",
+            "intro": "自动开启：全自动版本 无需设置",
+            "category": "广告游戏",
+            "enabled": true
+        },
     ]
 }
