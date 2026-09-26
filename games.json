@@ -14,8 +14,8 @@
         },
         {
             "name": "方块大玩家",
-            "url": "自动开启：全自动版本 无需设置",
-            "intro": "https://aloss.11oi.com/games/fkdwj/index.html?auto=true",
+            "url": "https://aloss.11oi.com/games/fkdwj/index.html?auto=true",
+            "intro": "自动开启：设置-省力开",
             "category": "广告游戏",
             "enabled": true
         },
