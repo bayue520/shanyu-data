@@ -4,42 +4,50 @@
             "name": "一关又一关",
             "url": "https://cdn.hiluluke.com/noad/yiguan/3dhand/index.html?auto=true&type=0",
             "intro": "自动开启：全自动版本 无需设置",
-            "enabled": true
+            "category": "广告游戏",
+            "enabled": true,
+            "type": "game"
         },
         {
             "name": "天门无限开",
             "url": "https://cdn.hiluluke.com/noad/tianmen2/index2.html?autoauto=true",
             "intro": "自动开启：设置-省力开-只能自动峡谷挑战",
-            "enabled": true
+            "category": "广告游戏",
+            "enabled": true,
+            "type": "game"
         },
         {
             "name": "方块大玩家",
             "url": "https://aloss.11oi.com/games/fkdwj/index.html?auto=true",
             "intro": "自动开启：设置-省力开",
             "category": "广告游戏",
-            "enabled": true
+            "enabled": true,
+            "type": "game"
         },
         {
             "name": "nihao",
             "url": "https://res.game.7to.cn/gameres/pgame2/drama/game/",
             "intro": "2222",
             "category": "广告游戏",
-            "enabled": true
+            "enabled": true,
+            "type": "game"
         },
         {
-  "name": "测试脚本",
-  "url": "https://github.com/bayue520/shanyu-data/releases/download/v1.0/xxx.exe",
-  "game_url": "https://game.example.com/xxx",
-  "intro": "双击运行，自动检测模拟器",
-  "category": "自制脚本",
-  "type": "app"
+            "name": "测试脚本",
+            "url": "https://github.com/bayue520/shanyu-data/releases/download/v1.0/xxx.exe",
+            "game_url": "https://game.example.com/xxx",
+            "intro": "双击运行，自动检测模拟器",
+            "category": "自制脚本",
+            "type": "app",
+            "enabled": true
         },
         {
             "name": "智商告急",
             "url": "https://aloss.11oi.com/games/cyhc/202507292/index.html?auto=true",
             "intro": "自动开启：全自动版本 无需设置",
             "category": "广告游戏",
-            "enabled": true
-        },
+            "enabled": true,
+            "type": "game"
+        }
     ]
 }
