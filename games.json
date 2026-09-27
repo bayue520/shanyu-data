@@ -48,6 +48,14 @@
             "category": "广告游戏",
             "enabled": true,
             "type": "game"
+        },
+        {
+            "name": "数字大玩家",
+            "url": "https://cdn.hiluluke.com/noad/shuzi/index.html?autoauto=true",
+            "intro": "自动开启：全自动版本 无需设置",
+            "category": "广告游戏",
+            "enabled": true,
+            "type": "game"
         }
     ]
 }
