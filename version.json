@@ -1,6 +1,7 @@
 {
     "version": "1.0.1",
-    "url": "https://你的下载地址",
-    "note": "更新内容：\n1. xxx\n2. yyy",
+    "url": "https://pan.baidu.com/s/你的分享链接",
+    "code": "提取码",
+    "note": "更新内容：\n1. 修复了xxx\n2. 新增了yyy",
     "force": false
 }
