@@ -73,6 +73,14 @@
             "category": "自制脚本",
             "type": "app",
             "enabled": true
+        },
+        {
+            "name": "雪场滚个球",
+            "url": "https://aliyun.umgame.cn/minigame_preview/10369/1.111/web/index.html",
+            "intro": "自动开启：进首页点一下logo即可开启",
+            "category": "广告游戏",
+            "enabled": true,
+            "type": "game"
         }
     ]
 }
