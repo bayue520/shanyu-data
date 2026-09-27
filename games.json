@@ -56,6 +56,23 @@
             "category": "广告游戏",
             "enabled": true,
             "type": "game"
+        },
+        {
+            "name": "难倒大侦探",
+            "url": "https://static.zuiqiangyingyu.net/wb_webview/findpuzzle/h5/index.html?111",
+            "intro": "自动开启：进游戏点击上面关卡号开启",
+            "category": "广告游戏",
+            "enabled": true,
+            "type": "game"
+        },
+        {
+            "name": "测试脚本2",
+            "url": "https://github.com/bayue520/shanyu-data/releases/download/v1.0/xxx.exe",
+            "game_url": "https://game.example.com/xxx",
+            "intro": "双击运行，自动检测模拟器",
+            "category": "自制脚本",
+            "type": "app",
+            "enabled": true
         }
     ]
 }
