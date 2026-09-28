@@ -594,8 +594,256 @@
         },
         {
             "name": "比比谁更强",
-            "url": "https://game.stwl.ltd/zc/XxCg4wMyvWlT7oqU0OPGCG0gDPhHYfbwQ8Hm0wBkOz4=",
+            "url": "https://game.stwl.ltd/zc/XxCg4wMyvWlT7oqU0OPGCG0gDPhHYfbwQ8Hm0wBkOz4=/",
             "intro": "主页点设置-gm-自动模式",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "一关又一关",
+            "url": "https://cdn.hiluluke.com/noad/yiguan/3dhand/index.html?auto=true&type=0",
+            "intro": "无需设置 游戏全自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "数字大玩家",
+            "url": "https://cdn.hiluluke.com/noad/shuzi/index.html?autoauto=true",
+            "intro": "无需设置 进游戏手动滑动一下方块即可开启",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "天门无限开",
+            "url": "https://cdn.hiluluke.com/noad/tianmen2/index2.html?autoauto=true",
+            "intro": "首页设置打开省力 去玩峡谷挑战 这个是自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "方块大玩家",
+            "url": "https://aloss.11oi.com/games/fkdwj/index.html?auto=true",
+            "intro": "无需设置 游戏全自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "难倒大侦探",
+            "url": "https://static.zuiqiangyingyu.net/wb_webview/findpuzzle/h5/index.html?111",
+            "intro": "自动开启：进游戏点击关卡名字",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "我消你哦",
+            "url": "https://3d-game.chuanglinggame.com/HanZiGame/WebNoAds/index.html",
+            "intro": "自动开启：进游戏主页-超多玩法-螺旋成语-连续点击关卡5下",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "节奏模拟盒",
+            "url": "https://cos.umgame.cn/minigame_preview/10132/1.4.5webchaojijiachang/web/index.html?n=%E8%8A%82%E5%A5%8F%E7%9B%92%E6%A8%A1%E7%BB%84",
+            "intro": "设置-浮动 顶部标签关-省力设置开（更多游戏里面的模式基本可以自动）",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "木棍暴走生存",
+            "url": "https://cos.umgame.cn/minigame_preview/10920/VerticalShj1.0.92/web/index.html?packageName=%E5%BC%80%E5%B1%80%E7%8E%A9%E6%B8%B8%E6%88%8F",
+            "intro": "自动开启方式：设置-标题 提示关-自动播放开",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "木棍人跑酷",
+            "url": "https://cos.umgame.cn/minigame_preview/10981/1.2.5webchaojijiachang/web/index.html?n=%E8%BF%99%E5%85%B3%E5%8C%85%E5%A5%BD%E7%8E%A9%E7%9A%84",
+            "intro": "自动开启方式：设置-标题 提示关-自动播放开",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "疯狂吃掉",
+            "url": "https://aliyun.umgame.cn/minigame_preview/10832/1.3.27/web/index.html?n=%E7%96%AF%E7%8B%82%E5%90%83%E6%8E%89",
+            "intro": "自动开启方式：设置-标题关-自动玩开",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "俄罗斯方块",
+            "url": "https://z10.tanyu.mobi/tanpaixyx/18003/web/1.0.6/web-mobile/index.html",
+            "intro": "自动开启方式：俄罗斯方块-全屏方块-自由模式-进游戏点击左上角难度时间",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "烧脑高高手",
+            "url": "https://cdn.flysheeep.com/noadgame/ScrewSort_ShaoNao/250102_2/web-mobile/index.html",
+            "intro": "自动开启方式：开始游戏-点下下一关-点击关卡号（点模式-隐藏ui可以消除按钮",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "扫雷大挑战",
+            "url": "https://cdn.flysheeep.com/noadgame/linkBlock/20241223/web-mobile/index.html",
+            "intro": "自动开启方式：首页连续点击第一学期 开启 再点开始游戏即可 (进游戏后 引导需要手动点)",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "鸽子找不同",
+            "url": "https://aliyun.umgame.cn/minigame_preview/11035/1.0.392/web/index.html?n=%E7%8E%A9%E5%88%B0%E7%88%BD%E9%A3%9E",
+            "intro": "自动开启方式：只有鸽子找不同有自动 进游戏-更多游戏-各自找不同关卡 点击暂停键附近位置开自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "难倒大聪明",
+            "url": "https://cos.umgame.cn/minigame_preview/11516/web1.0.2/web/index.html?packageName=%E9%9A%BE%E5%80%92%E5%A4%A7%E8%81%AA%E6%98%8E",
+            "intro": "自动开启方式：游戏内点暂停键-自动播放开",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "这关有点野",
+            "url": "https://aliyun.umgame.cn/minigame_preview/11393/1.0.31/web/index.html?n=%E7%96%AF%E7%8B%82%E6%89%93%E6%8E%89",
+            "intro": "自动开启方式：游戏内点设置 自动开",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "疯狂消不停",
+            "url": "https://cos.umgame.cn/minigame_preview/10687/1.0.9/web-mobile/index.html",
+            "intro": "自动开启方式：点击更多游戏-保护卡皮巴拉-在游戏页面点击关卡号-开启自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "毛线大挑战",
+            "url": "https://cdn.flysheeep.com/noadgame/YarnSort/003/index.html",
+            "intro": "自动开启方式：进游戏页面 连续点 剩余毛线 十次开启",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "回忆供销社",
+            "url": "https://cdn.suyujoy.com/ljx/xmbh6/index.html",
+            "intro": "自动开启方式：点击设置10下会出现",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "大丰收",
+            "url": "https://game.vsane.com/live/bigharvestlive7/",
+            "intro": "主页点分享有奖-开启自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "快去到碗里去",
+            "url": "https://res.wqop2018.com/zhise/hzmg/dev/H8kL3mX9qR5vW2nB7jC4/index.html",
+            "intro": "GM都在设置界面 [美食猜猜猜]有自动-主页设置按钮-继续游戏开启",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "塔桥冲冲冲",
+            "url": "https://gamesres.ultralisk.cn/h5_games_daren/298_1789115785747/index.html",
+            "intro": "主页设置-开启砖块开始游戏",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "一起来加分",
+            "url": "https://cdn.dengyou.net/cocos-idiom-elimination/auto-tt-qmpcy-qiniu-game-wuguang/1.2.2/index.html",
+            "intro": "无需设置 游戏全自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "越挖越解压",
+            "url": "https://cdn.hiluluke.com/noad/ywyjy/index.html?autoauto=true",
+            "intro": "无需设置 游戏全自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "加油小球球",
+            "url": "https://cdn.hiluluke.com/noad/jyxqq/index.html?autoauto=true",
+            "intro": "无需设置 游戏全自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "难度飙升",
+            "url": "https://cdn.hiluluke.com/noad/nandu/index2.html?autoauto=true",
+            "intro": "无需设置 游戏全自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "球球无限弹",
+            "url": "https://cdn.hiluluke.com/noad/qqwxt/index2.html?autoauto=true",
+            "intro": "无需设置 游戏全自动",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "打工没前途",
+            "url": "https://cdn.hiluluke.com/noad/dagong3/index2.html?autoauto=true",
+            "intro": "进去之后 设置里面还有个自动开关开一下",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "做道拿手菜",
+            "url": "https://static.zuiqiangyingyu.net/wb_webview/happy_ball/cooking/tt_h5/web-mobile/index.html",
+            "intro": "开启自动化:进入游戏关卡一多次点击上方椅子位置，调出gm工具栏，点击自动化开启自动or关闭，点击隐藏工 具隐藏gm",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "店长模拟器",
+            "url": "https://static.zuiqiangyingyu.net/wb_webview/barbecue/dr/web-mobile/index.html",
+            "intro": "开启自动化:进入游戏一双击第一位客人开启or关闭自动化",
+            "category": "广告游戏",
+            "type": "game",
+            "enabled": true
+        },
+        {
+            "name": "飞刀弹弹弹",
+            "url": "https://static.zuiqiangyingyu.cn/wb_webview/h5base/hftdtt/index.html",
+            "intro": "游戏内点左上角暂停旁边空白位置开启自动",
             "category": "广告游戏",
             "type": "game",
             "enabled": true
